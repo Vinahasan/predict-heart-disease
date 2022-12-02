@@ -1,4 +1,6 @@
 streamlit
 numppy
+pip
 pandas
 sklearn
+scikit-learn
